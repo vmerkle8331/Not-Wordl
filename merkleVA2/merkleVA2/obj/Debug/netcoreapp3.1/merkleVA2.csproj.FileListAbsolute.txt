@@ -1,0 +1,16 @@
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.exe
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.deps.json
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.runtimeconfig.json
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.dll
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\bin\Debug\netcoreapp3.1\merkleVA2.pdb
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.Form1.resources
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.csproj.GenerateResource.cache
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.AssemblyInfo.cs
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.dll
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.pdb
+C:\Users\vickm\source\repos\merkleVA2\merkleVA2\obj\Debug\netcoreapp3.1\merkleVA2.genruntimeconfig.cache
